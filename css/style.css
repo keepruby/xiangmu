@@ -1,0 +1,24 @@
+/* pc顶部 */
+/* 重置样式 */
+.pcTop{
+    min-height: 50px;
+    background: #f8f8f8;
+}
+.navbar{
+    border-radius: 0;
+    margin: 0;
+    border: none;
+}
+.pcTop .col-md-2 ,.pcTop .col-md-10{
+    padding: 0;
+}
+.logo{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.logo img{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
