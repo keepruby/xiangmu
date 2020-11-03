@@ -22,3 +22,15 @@
     left: 0;
     top: 0;
 }
+
+/* 底部 */
+.botomBox{
+    padding: 40px 0;
+    background: darkblue;
+    color: #fff;
+}
+
+.footer{
+    padding: 40px 0 40px;
+    background: darkcyan;
+}
